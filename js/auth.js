@@ -13,7 +13,7 @@
 // tres IDs como parámetros para que el backend los utilice.
 // ============================================================
 const DEFAULT_CONFIG = {
-  apiUrl: 'https://script.google.com/macros/s/AKfycbzkTAd8JLKl7lVRskbBNzO26cYrgsOvY0kfY30aVqNb3OBucDCVNbzEZGDRjh4bMSV-/exec',
+  apiUrl: 'https://script.google.com/macros/s/AKfycbwKUpcTrdyrGwjmaAU5cLURD0AyOOvkFY-xbUY4S1Ok0Kx4ELPq9_rJI1VJMB-GCJPdhg/exec',
   adminId: '1ZittRkavpEEjJXN8tohSJ0qhUeNPSjuYDQktefwlmWo',
   checadorId: '1LL_EodpNUFWXguzp-YuFHvRbli7MpY7dll3kShKOvbo',
   financieroId: '12g1PZRAVkqsCvhNFiR9WU5zqGA6dvMf1cUkP4NS4YxE'
