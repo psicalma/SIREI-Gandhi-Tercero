@@ -13,8 +13,8 @@
 // tres IDs como parámetros para que el backend los utilice.
 // ============================================================
 const DEFAULT_CONFIG = {
-  apiUrl: 'https://script.google.com/macros/s/AKfycbwKUpcTrdyrGwjmaAU5cLURD0AyOOvkFY-xbUY4S1Ok0Kx4ELPq9_rJI1VJMB-GCJPdhg/exec',
-  adminId: '1ZittRkavpEEjJXN8tohSJ0qhUeNPSjuYDQktefwlmWo',
+  apiUrl: 'https://script.google.com/macros/s/AKfycbwIgD1IT6j2HDmUAGGbPgJ8Cs7dYXWyXVVY0jMy82QR5Gkdj61Sxn245EQWxuZtwSvbUQ/exec',
+  adminId: '1WNwrIc1Da8e8p4Rn8ZvwliB0jRKEEFXu8tjbqlRU0C4',
   checadorId: '1LL_EodpNUFWXguzp-YuFHvRbli7MpY7dll3kShKOvbo',
   financieroId: '12g1PZRAVkqsCvhNFiR9WU5zqGA6dvMf1cUkP4NS4YxE'
 };
